@@ -1,0 +1,8 @@
+#binaries, supported plugins
+.idea
+
+#compiled classes
+out
+
+#metadata
+lambda-streams.iml
