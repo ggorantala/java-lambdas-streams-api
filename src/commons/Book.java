@@ -35,6 +35,14 @@ public class Book {
     return title;
   }
 
+  public String getAuthor() {
+    return author;
+  }
+
+  public int getCopiesSoldInMillions() {
+    return copiesSoldInMillions;
+  }
+
   @Override
   public String toString() {
     return "commons.Book{ title="
